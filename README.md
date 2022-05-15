@@ -1,11 +1,8 @@
 <h1 align="center">
     <a href="https://dsmovie-lucasfroque.netlify.app">🎬DSMovie</a>
 </h1>
-<h4 align="center"> 
-	🚧  Em construção...  🚧
-</h4>
 <h1 align="center">
-    <img align="center" width=600 src="https://i.imgur.com/aWExy8C.png">
+    <img align="center" width=600 src="https://i.imgur.com/Ww7T7P0.gif">
 </h1>
 
 <h3 align="center">
@@ -13,7 +10,7 @@
 </h3>
 
 <p align="center">
- <a href="#objetivo">Sobre</a> •
+ <a href="#🔖&nbsp; Sobre">Sobre</a> •
  <a href="#tecnologias">Tecnologias usadas</a> • 
    <a href="#instalação">Como instalar</a> 
 </p>
