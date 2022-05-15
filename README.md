@@ -9,13 +9,10 @@
     <a href="https://dsmovie-lucasfroque.netlify.app/">Acessar a demonstração</a>
 </h3>
 
-- [Sobre](#Sobre)
-- [Tecnologias](#Tecnologias)
-
 <p align="center">
- <a href="#🔖&nbsp; Sobre">Sobre</a> •
- <a href="#tecnologias">Tecnologias usadas</a> • 
-   <a href="#instalação">Como instalar</a> 
+ <a href="#🔖 Sobre; Sobre">Sobre</a> •
+ <a href="#🚀 Tecnologias utilizadas">Tecnologias usadas</a> • 
+   <a href="#📦 Instalação">Como instalar</a> 
 </p>
 
 
@@ -24,7 +21,7 @@
 - Backend feito utilizando Java e Springboot, responsável pela APIRest, contendo dados, como nome do filme, avaliações etc.
 - Frontend feito utilizando React, responsável pela interface e consumir os dados da API.
 
-## Tecnologias
+## 🚀 Tecnologias utilizadas
 O projeto foi desenvolvido utilizando as seguintes tecnologias <br>
 
 
