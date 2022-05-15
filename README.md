@@ -9,6 +9,9 @@
     <a href="https://dsmovie-lucasfroque.netlify.app/">Acessar a demonstração</a>
 </h3>
 
+- [Sobre](#Sobre)
+- [Tecnologias](#Tecnologias)
+
 <p align="center">
  <a href="#🔖&nbsp; Sobre">Sobre</a> •
  <a href="#tecnologias">Tecnologias usadas</a> • 
@@ -16,12 +19,12 @@
 </p>
 
 
-## 🔖&nbsp; Sobre
+## 🔖 Sobre
 - O projeto **DSMovie** é um site para avaliações de filmes que foi criado dentro do curso **Semana Spring React** com o intuito de colocarmos em prática todo conteúdo estudado durante o curso.
 - Backend feito utilizando Java e Springboot, responsável pela APIRest, contendo dados, como nome do filme, avaliações etc.
 - Frontend feito utilizando React, responsável pela interface e consumir os dados da API.
 
-## 🚀 Tecnologias utilizadas
+## Tecnologias
 O projeto foi desenvolvido utilizando as seguintes tecnologias <br>
 
 
