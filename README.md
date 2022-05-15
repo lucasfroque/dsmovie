@@ -10,11 +10,10 @@
 </h3>
 
 <p align="center">
- <a href="#🔖 Sobre; Sobre">Sobre</a> •
- <a href="#🚀 Tecnologias utilizadas">Tecnologias usadas</a> • 
-   <a href="#📦 Instalação">Como instalar</a> 
+ <a href="#-sobre">Sobre</a> •
+ <a href="#-tecnologias-utilizadas">Tecnologias usadas</a> • 
+   <a href="#-instalação">Como instalar</a> 
 </p>
-
 
 ## 🔖 Sobre
 - O projeto **DSMovie** é um site para avaliações de filmes que foi criado dentro do curso **Semana Spring React** com o intuito de colocarmos em prática todo conteúdo estudado durante o curso.
