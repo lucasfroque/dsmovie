@@ -1,6 +1,8 @@
 <h1 align="center">
     <a href="https://dsmovie-lucasfroque.netlify.app">🎬DSMovie</a>
 </h1>
+<h3 align="center">⚠️ATENÇÃO A API ESTÁ HOSPEDADA NO HEROKU(FREE) E QUANDO NÃO ESTA SENDO USADA ELA ENTRA EM HIBERNAÇÃO, PODE SER QUE AO ACESSAR O SITE PELA PRIMERA
+ VEZ DEMORE PARA CARREGAR.⚠️ </h3>
 <h1 align="center">
     <img align="center" width=600 src="https://i.imgur.com/Ww7T7P0.gif">
 </h1>
